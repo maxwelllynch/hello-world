@@ -1,4 +1,45 @@
-# hello-world
-Getting started with GitHub
-**About Me**
-My name is Maxwell Lynch. I am art of the Westminster undergraduate class of 2025. Westminster is a private liberal arts university in Salt Lake City, Utah. I am studying physics and I hope to continue my education into a graduate program after I graduate. I am passionate about skiing, biking, photography, and recreating outdoors.
+# **Intro_to_opensource_and_git**
+#  
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=j-lynch&show_icons=true)
+
+
+### We can ultimately use this as a class intro. 
+
+
+<details id=1>
+<summary><h2>Outline</h2></summary>
+
+### Class outline
+
+1. Intro to github
+2. Branches and pull requests
+3. Merge conflicts
+4. RStudio, push, pull
+5. Bitbucket, push pull
+6. Command line
+7. Branching strategies
+8. Revisions/releases (to do)
+* Code review (to do)
+* Package validation (to do) **
+* Unit tests (to do) **
+9. SPACE
+10. Best practices
+11. Creating issues
+12. Capstone (to do)
+
+</details>
+
+<details id=2>
+<summary><h2>Intro to open source</h2></summary>
+
+### Welcome to Introduction to Open Source!
+
+The purpose of this tutorial is to teach you some of the concepts surrounding "open source" and how the platform GitHub is used to support those concepts. You will also learn some basic workflows using the GitHub platform.
+
+This tutorial is part of a larger series of tutorials created to teach J&J statistical programmers how to use open source, Git, GitHub, and RStudio together. 
+
+</details>
+                                                        
+
